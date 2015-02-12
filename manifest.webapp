@@ -1,0 +1,20 @@
+{
+  "name": "myGwalior",
+  "description": "This app is for all those who want to explore more about Gwalior and want to visit in future.This contain all the essential details which are necessary to know in any city.",
+  "launch_path": "/index.html",
+  "icons": {
+ "16": "/img/logo/logo-16x16.png",
+  
+  "48": "/img/logo/logo-48x48.png",
+   
+ "60": "/img/logo/logo-60x60.png",
+   
+ "128": "/img/logo/logo-128x128.png"
+ 
+  },
+  "developer": {
+    "name": "Gautam sharma",
+    "url": "http://www.mozilliangautam.blogspot.com"
+  },
+  "default_locale": "en"
+}
